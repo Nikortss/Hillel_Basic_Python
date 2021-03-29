@@ -1,7 +1,7 @@
-NumberofYear = int(input('Enter the year: '))
-if (NumberofYear % 4) == 0 and (NumberofYear % 100) != 0:
+numberOfYear = int(input('Enter the year: '))
+if (numberOfYear % 4) == 0 and (numberOfYear % 100) != 0:
     print('Yes')
-elif NumberofYear % 400 == 0:
+elif numberOfYear % 400 == 0:
     print('Yes')
 else:
     print('No')

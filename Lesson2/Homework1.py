@@ -1,3 +1,3 @@
-NameofUser = input('Enter your name: ')
-print('Hello, ' + NameofUser + '!')
+nameOfUser = input('Enter your name: ')
+print('Hello, ' + nameOfUser + '!')
 

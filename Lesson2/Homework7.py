@@ -1,2 +1,2 @@
-NumberOfStars = int(input('Input number of starts: '))
-print(NumberOfStars * '*')
+numberOfStars = int(input('Input number of starts: '))
+print(numberOfStars * '*')
